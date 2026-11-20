@@ -134,7 +134,7 @@ Sans étiquette de voix : on écrit simplement le vers deux ou trois fois.
 - **Inversion, attribut ou complément en tête** : « Chevalier suis. » « Chevalier m'a fait le roi. » « Ces armes m'a donné le roi. » « J'ai nom Perceval le Gallois. » « Le front avait et blanc et plein. »
 - **Sujet omis** : « Ne sais si elle est vive ou morte. » « Plus n'en ai besoin. »
 - **Négation sans « pas »** : _ne… point, ne… mie, ne… mais (= plus), ne… onc, nul ne, ni… ni_ ; « Point ne la lui refuserai. »
-- **Subjonctif imparfait** sans gêne : « qu'à votre doigt l'anneau je prisse / et que rien de plus ne vous fisse ».
+- **Temps anciens** : passé simple à toutes les personnes, subjonctif imparfait et plus-que-parfait (section 4.5).
 - **Tours anciens** : _il lui souvient de_, _tant… que_ (« Tant a pleuré que lui s'éveille »), _lors_, _or_, _si_ adverbe (« Si lui dit »), _ce me semble_, _que_ explicatif en tête de vers.
 - **Anaphore en « Et »** dans la narration, et **énumérations rythmées** : « Et vit les hauberts frémissants / Et les heaumes clairs et luisants / Et vit le blanc et le vermeil / Reluire contre le soleil. »
 - **Doublets** : _triste et courroucée, beau et bon, honte et reproche et blâme, dolente et chétive_.
@@ -234,11 +234,52 @@ bénisse (5), je vous dis (5), si Dieu m'amende (4), beau fils (4), bel ami (4),
 | franchement, vraiment       | par ma foi, par Dieu                        |
 | bonjour / au revoir         | Dieu vous sauve / à Dieu je vous recommande |
 | je pense que                | je crois                                    |
+| vous avez vu, nous avons fait | vous vîtes, nous fîmes                    |
+| qu'il prenne, que je fasse (après un verbe au passé) | qu'il prît, que je fisse |
+| aurait été, aurait eu (ce qui n'a pas eu lieu) | fût, eût                     |
 
 **Cible pour vingt vers** (environ 120 mots) : une ou deux adresses dans les paroles (sire, beau doux
 ami, belle amie…), un serment, trois ou quatre mots-outils du tableau (car, ni, nul, tant, si),
-plusieurs passés simples, et au moins deux mots forts (moult, occire, de par, merci, messire). Les
+plusieurs passés simples (à « vous » ou « nous » s'il y a des paroles), un subjonctif imparfait,
+et au moins deux mots forts (moult, occire, de par, merci, messire). Les
 archaïsmes plus rares de la section 4.2 (lors, mie, onc, céans, issir…) viennent en plus.
+
+### 4.5 Temps et modes
+
+Le film garde les temps que le français parlé a perdus. Ils comptent autant que le vocabulaire
+pour l'oreille ancienne.
+
+**Passé simple à toutes les personnes**, y compris « vous » et « nous », souvent sans sujet :
+
+- « Où fûtes-vous donc aujourd'hui ? »
+- « Jamais ne vîtes les pareils, / Jamais n'en ouïtes parler. »
+- « Quand prud'homme vous l'appelâtes, / Jamais mot plus vrai ne parlâtes. »
+- « Conseil lui demandâmes », « Le plus grand ouvrage nous fîmes ».
+
+Terminaisons : _-âmes, -âtes_ (parlâmes, parlâtes) ; _-îmes, -îtes_ (fîmes, vîtes, prîtes,
+ouïtes) ; _-ûmes, -ûtes_ (fûtes, eûtes, sûtes).
+
+**Subjonctif imparfait** dès que le verbe principal est au passé, et après _sans que, avant que,
+comme si_ :
+
+- « Encore m'avait dit ma mère / Qu'à votre doigt l'anneau je prisse / Et que rien de plus ne vous fisse. »
+- « Ma mère m'enseigna et dit / Que les pucelles saluasse / En quelque lieu que les trouvasse. »
+- « Que je crusse ce qu'ils diraient. »
+- « Sans qu'auparavant le défiât », « Comme s'il fût ouvré de main ».
+
+Terminaisons : _-asse, -asses, -ât, -assent_ (trouvasse, saluât) ; _-isse, -ît_ (prisse, fisse,
+vît) ; _-usse, -ût_ (crusse, susse, eût, fût, pût).
+
+**Subjonctif plus-que-parfait au lieu du conditionnel passé**, pour ce qui n'a pas eu lieu, souvent
+dans les deux moitiés de la phrase :
+
+- « Car si demandé le lui eusses, / Le bon roi, qui malade gît, / Fût de sa blessure guéri. »
+  (si tu le lui avais demandé, le roi aurait été guéri)
+- « Et pourtant assez belle fût / Si elle eût été bien vêtue. »
+- « Si dès que je l'eusse vaincu, / Merci de lui n'eusse pas eu. »
+
+**Souhait au subjonctif, sans « que »** : « Dieu vous sauve », « Dieu te bénisse », « Dieu me garde
+de cette faute », « Maudite soit cette nouvelle / Et maudit celui qui l'a dite », « Honnie sois-tu, / Et Dieu te détruise et confonde ».
 
 ## 5. Le ton et les motifs
 
