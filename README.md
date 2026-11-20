@@ -140,8 +140,8 @@ est organisé autour d'eux :
 1. des octosyllabes à rimes plates, où une rime peut passer d'une réplique à la réponse ;
 2. des paroles prises dans le récit, avec « fait-il », et un narrateur qui intervient (« Que vous
    dirais-je ? ») ;
-3. des refrains et des vers chantés deux fois (« Le chevalier sans nul arrêt / Va chevauchant par
-   la forêt ») ;
+3. des répétitions et des refrains (« Le chevalier sans nul arrêt / Va chevauchant par la
+   forêt ») ;
 4. une langue archaïsante : inversions (« Chevalier suis »), négation sans « pas », passé simple,
    subjonctif imparfait, vocatifs (« beau doux ami »), serments (« par ma foi ») ;
 5. un ton naïf et pince-sans-rire, avec des maximes (« Ce qu'on ne sait, on peut l'apprendre / Si
@@ -150,6 +150,21 @@ est organisé autour d'eux :
 Chaque vers cité dans le skill a été corrigé des erreurs de reconnaissance, puis compté à huit
 syllabes. Ce comptage a corrigé une règle : le film compte le e de « montée » ou « empoignée » devant
 une consonne (« À la mon·té·e des degrés »).
+
+### Qui répète ?
+
+Les sous-titres ne disent pas qui parle. Pour savoir si les répétitions viennent de Perceval ou des
+chanteurs, deux mesures ont été faites sur l'audio de chaque répétition :
+
+- la part de notes tenues (hauteur stable pendant au moins 150 ms), qui sépare le chant de la
+  parole ;
+- la ressemblance de voix (modèle ECAPA), calibrée sur des répliques sûres de Perceval, de sa mère
+  et des chanteurs : 16 répliques sur 17 bien attribuées, même coupées à 0,6 s.
+
+Résultat : Perceval reprend en écho le mot de l'autre (« le surplus je vous le défends. — Le
+baiser. », « n'ayez peur. — Peur ? ») et redit son salut quand le roi ne répond pas. Les vers entiers
+repris (« Jamais je ne vous oublierai », « Qui trop parle péché fait ») sont surtout chantés : la
+phrase d'un personnage revient en refrain. Le skill distingue ces trois formes dans sa section 3.4.
 
 ### Compter les mots du film
 

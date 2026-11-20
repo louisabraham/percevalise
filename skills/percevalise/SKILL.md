@@ -1,6 +1,6 @@
 ---
 name: percevalise
-description: Écrire ou réécrire un texte dans le style du film « Perceval le Gallois » d'Éric Rohmer (1978), d'après le Conte du Graal de Chrétien de Troyes — octosyllabes à rimes plates, français franchement archaïsant mais compréhensible, paroles prises dans le récit avec « fait-il », refrains et vers doublés, narrateur qui intervient, naïveté et maximes courtoises. À utiliser dès qu'on demande de « percevaliser » un texte, un pastiche « Perceval », « Rohmer », « Chrétien de Troyes », « roman arthurien », « vers médiévaux / courtois », ou de « mettre à l'ancienne » un récit, un dialogue, un message, une situation moderne.
+description: Écrire ou réécrire un texte dans le style du film « Perceval le Gallois » d'Éric Rohmer (1978), d'après le Conte du Graal de Chrétien de Troyes — octosyllabes à rimes plates, français franchement archaïsant mais compréhensible, paroles prises dans le récit avec « fait-il », échos et vers repris en refrain, narrateur qui intervient, naïveté et maximes courtoises. À utiliser dès qu'on demande de « percevaliser » un texte, un pastiche « Perceval », « Rohmer », « Chrétien de Troyes », « roman arthurien », « vers médiévaux / courtois », ou de « mettre à l'ancienne » un récit, un dialogue, un message, une situation moderne.
 ---
 
 # Le style de _Perceval le Gallois_ (Rohmer, 1978)
@@ -17,7 +17,7 @@ qu'on comprend à l'oreille, avec un ordre des mots, un lexique et des formules 
 
 1. **Octosyllabes en rimes plates** (AA BB CC…), où une rime peut passer d'une parole à la réponse.
 2. **Récit et paroles mêlés** : paroles citées avec incises (« fait-il », « dit-elle »), narrateur qui intervient (« Que vous dirais-je ? »).
-3. **Refrains** : vers répétés deux fois, formule de transition récurrente, ouverture printanière.
+3. **Répétitions et refrains** : écho du mot de l'autre, redite, vers repris (section 3.4), formule de transition récurrente, ouverture printanière.
 4. **Langue franchement archaïsante** : les mots du film (section 4.4 : sire, pucelle, moult, occire, car, ni, nul, tant, de par, merci), inversions, sujet omis, négation sans « pas », passé simple, subjonctif imparfait, vocatifs (« beau doux ami »), serments (« par ma foi »).
 5. **Ton** : naïveté littérale, questions en cascade, maximes morales, courtoisie, merveilleux chrétien, pince-sans-rire.
 
@@ -71,19 +71,11 @@ Le couplet n'appartient à personne. Une parole peut tenir en un demi-vers, et l
 > Notre Seigneur en qui je crois.
 > N'êtes-vous Dieu ? — Non, par ma foi.
 
-Le dernier mot de l'un est souvent repris, seul, par l'autre (écho naïf ou scandalisé) :
-
-> Si le baiser elle consent,
-> Le surplus je vous le défends.
-> — Le baiser.
-
 ## 3. Le récit
 
-### 3.1 Refrains et vers doublés
+### 3.1 Ouverture et refrain
 
 - **Ouverture saisonnière** : « Ce fut au temps qu'arbres feuillissent, / Herbes et bois et prés verdissent… »
-- **Vers doublés** : on reprend le dernier vers d'une phrase.
-  « Plus rien alors ne coûte peine. / Plus rien alors ne coûte peine. »
 - **Refrain de transition**, qui revient à chaque départ :
   > Le chevalier sans nul arrêt
   > Va chevauchant par la forêt.
@@ -106,6 +98,30 @@ annoncés plutôt que décrits : « Il lui met le pied en l'étrier », « Lors 
 
 Dans une scène dialoguée, on peut aussi dire ses propres gestes à la troisième personne, comme les
 acteurs du film : « Faites-moi chevalier, fait-il, sire roi… »
+
+### 3.4 Les répétitions
+
+Trois formes, qui n'ont pas le même rôle :
+
+- **L'écho d'un mot** : le naïf reprend, seul, le mot qui l'arrête dans la phrase de l'autre, pour
+  le retenir ou parce qu'il le surprend.
+
+  > Si le baiser elle consent,
+  > Le surplus je vous le défends.
+  > — Le baiser.
+
+  De même : « n'ayez peur. — Peur ? », « elle est morte. — Morte. », « Gauvain. — Gauvain ? »
+
+- **La redite** : on redit sa phrase quand on n'est pas entendu, en l'inversant (« Sire roi, soyez
+  salué. / Soyez salué, sire roi. »), ou l'on double un mot sous le coup de l'émotion (« Beau fils,
+  beau fils », « Malheur à toi, malheur à toi »).
+- **Le vers repris** : un vers entier, souvent une promesse ou une maxime qu'on vient de dire,
+  revient tel quel une ou deux fois, comme un refrain chanté.
+  « Jamais je ne vous oublierai. / Jamais je ne vous oublierai. »
+  « Car qui trop parle péché fait. / Car qui trop parle péché fait. »
+  « Plus rien alors ne coûte peine. / Plus rien alors ne coûte peine. »
+
+Une reprise de vers par passage suffit ; l'écho d'un mot vient dans les échanges de paroles.
 
 ## 4. La langue
 
@@ -238,7 +254,7 @@ archaïsmes plus rares de la section 4.2 (lors, mie, onc, céans, issir…) vien
 4. **Compter chaque vers** (section 2.1). Réécrire tout vers qui n'a pas huit syllabes.
 5. **Vérifier les rimes** : plates, entendues à l'oreille, pas de même mot deux fois sauf rime équivoque.
 6. **Archaïser franchement** : passe chaque vers au crible de la section 4.4, remplace tout mot moderne qui a son équivalent dans le film (jeune fille → pucelle, très → moult, tuer → occire, parce que → car, aucun → nul…), et vérifie la cible des vingt vers.
-7. **Ajouter la musique** : un vers doublé, un refrain, une incise « fait-il », un écho du dernier mot.
+7. **Ajouter la musique** : une répétition (section 3.4), un refrain, une incise « fait-il ».
 8. **Relire à voix haute** (mentalement) : chaque vers doit tomber sur sa rime.
 
 Format de sortie :
@@ -251,7 +267,7 @@ Les trois dosages possibles :
 
 - **Léger** : prose rythmée archaïsante, sans compter les syllabes, pour un message ou un mail.
 - **Standard** : octosyllabes en rimes plates.
-- **Intégral** : en plus, ouverture saisonnière, refrains, vers doublés, interventions du narrateur, transitions en prose.
+- **Intégral** : en plus, ouverture saisonnière, refrains, vers repris, échos, interventions du narrateur, transitions en prose.
 
 ## 7. Pièges
 
