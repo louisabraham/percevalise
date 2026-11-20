@@ -1,6 +1,6 @@
 ---
 name: percevalise
-description: Écrire ou réécrire un texte dans le style du film « Perceval le Gallois » d'Éric Rohmer (1978), d'après le Conte du Graal de Chrétien de Troyes — octosyllabes à rimes plates, français franchement archaïsant mais compréhensible, paroles prises dans le récit avec « fait-il », échos et vers repris en refrain, narrateur qui intervient, naïveté et maximes courtoises. À utiliser dès qu'on demande de « percevaliser » un texte, un pastiche « Perceval », « Rohmer », « Chrétien de Troyes », « roman arthurien », « vers médiévaux / courtois », ou de « mettre à l'ancienne » un récit, un dialogue, un message, une situation moderne.
+description: Écrire ou réécrire un texte dans le style du film « Perceval le Gallois » d'Éric Rohmer (1978), d'après le Conte du Graal de Chrétien de Troyes : octosyllabes à rimes plates, français franchement archaïsant mais compréhensible, paroles prises dans le récit avec « fait-il », échos et vers repris en refrain, narrateur qui intervient, naïveté et maximes courtoises. À utiliser dès qu'on demande de « percevaliser » un texte, un pastiche « Perceval », « Rohmer », « Chrétien de Troyes », « roman arthurien », « vers médiévaux / courtois », ou de « mettre à l'ancienne » un récit, un dialogue, un message, une situation moderne.
 ---
 
 # Le style de _Perceval le Gallois_ (Rohmer, 1978)
@@ -53,9 +53,9 @@ Un vers à 7 ou 9 syllabes casse tout le charme : si un vers résiste, change un
 - L'alternance masculine/féminine n'est **pas** obligatoire. Singulier et pluriel peuvent rimer.
 - **Assonance** tolérée de temps en temps : « la lance qui saigne / Et n'a pourtant ni chair ni veine ».
 - **Rime équivoque** (même mot, deux sens) très appréciée :
-  > Je te le dirai : c'est ma lance.
-  > — Voulez-vous dire qu'on la lance
-  > Comme je fais mes javelots ?
+  > « Je te le dirai : c'est ma lance. »
+  > « Voulez-vous dire qu'on la lance
+  > Comme je fais mes javelots ? »
 - Rimes faciles et typiques : _foi / roi / moi / toi / vois / crois / lois / palefroi_ ;
   _mère / frère / père / terre / guerre_ ; _ami / merci / ici / mie_ ; _pucelle / belle / nouvelle_ ;
   _chevalier / destrier / étrier / volontiers / entiers_ ; _matin / latin / chemin / main_ ;
@@ -66,10 +66,10 @@ Un vers à 7 ou 9 syllabes casse tout le charme : si un vers résiste, change un
 
 Le couplet n'appartient à personne. Une parole peut tenir en un demi-vers, et la réponse complète la rime :
 
-> Écoutez, n'ayez nulle peur.
-> — Peur ? Je n'ai point, par le Sauveur,
+> « Écoutez, n'ayez nulle peur. »
+> « Peur ? Je n'ai point, par le Sauveur,
 > Notre Seigneur en qui je crois.
-> N'êtes-vous Dieu ? — Non, par ma foi.
+> N'êtes-vous Dieu ? » « Non, par ma foi. »
 
 ## 3. Le récit
 
@@ -85,7 +85,7 @@ Le couplet n'appartient à personne. Une parole peut tenir en un demi-vers, et l
 Il s'adresse au public, abrège, juge, annonce :
 
 - « Je pourrais vous dire comment, / Si je me voulais entremettre, / Mais à quoi bon la peine y mettre ? »
-- « Que vous dirais-je ? » — « Ce nous dit le conte. » — « Sans autre fable. »
+- « Que vous dirais-je ? », « Ce nous dit le conte. », « Sans autre fable. »
 - « Perceval, ce nous dit l'histoire, / Avait tant perdu la mémoire / Que de Dieu ne lui souvint mais. »
 - « Et je crains qu'il n'y ait dommage. » (anticipe un malheur)
 - **Transition en prose**, sèche, quand on résume : « Ici le conte se tait de messire Gauvain et revient à Perceval. »
@@ -93,7 +93,7 @@ Il s'adresse au public, abrège, juge, annonce :
 ### 3.3 Paroles rapportées
 
 Les paroles sont citées au style direct, prises dans le récit, avec des incises (_fait-il, fait-elle,
-dit-il, ce dit-il, répond-il, lui dit-elle_) et des tirets quand la voix change. Les gestes sont
+dit-il, ce dit-il, répond-il, lui dit-elle_), avec une paire de guillemets « » par parole. Les gestes sont
 annoncés plutôt que décrits : « Il lui met le pied en l'étrier », « Lors il a déployé l'enseigne ».
 
 Dans une scène dialoguée, on peut aussi dire ses propres gestes à la troisième personne, comme les
@@ -106,11 +106,11 @@ Trois formes, qui n'ont pas le même rôle :
 - **L'écho d'un mot** : le naïf reprend, seul, le mot qui l'arrête dans la phrase de l'autre, pour
   le retenir ou parce qu'il le surprend.
 
-  > Si le baiser elle consent,
-  > Le surplus je vous le défends.
-  > — Le baiser.
+  > « Si le baiser elle consent,
+  > Le surplus je vous le défends. »
+  > « Le baiser. »
 
-  De même : « n'ayez peur. — Peur ? », « elle est morte. — Morte. », « Gauvain. — Gauvain ? »
+  De même : « n'ayez peur » puis « Peur ? » ; « elle est morte » puis « Morte. » ; « Gauvain » puis « Gauvain ? ».
 
 - **La redite** : on redit sa phrase quand on n'est pas entendu, en l'inversant (« Sire roi, soyez
   salué. / Soyez salué, sire roi. »), ou l'on double un mot sous le coup de l'émotion (« Beau fils,
@@ -161,7 +161,8 @@ Sans étiquette de voix : on écrit simplement le vers deux ou trois fois.
 - **Maximes** (une par passage, en couplet) :
   « Ce qu'on ne sait, on peut l'apprendre / Si l'on veut peiner et entendre. »
   « Car les choses que l'on vous donne / Ne sont si douces ni si bonnes / Que celles que l'on doit payer. »
-  « Car qui trop parle péché fait. » — « Ah ! Perceval, Fortune est chauve / Derrière, et devant chevelue. »
+  « Car qui trop parle péché fait. »
+  « Ah ! Perceval, Fortune est chauve / Derrière, et devant chevelue. »
 
 ### 4.4 Les mots du film (relevé de fréquence)
 
@@ -242,7 +243,7 @@ archaïsmes plus rares de la section 4.2 (lors, mie, onc, céans, issir…) vien
 ## 5. Le ton et les motifs
 
 - **Naïveté littérale** : on applique les conseils mot pour mot, on ignore le nom des choses, on pose des questions en cascade (« Et ceci, à quoi vous sert-il ? »). Le ridicule n'est jamais commenté.
-- **Interrogatoire** en demi-vers : « Qui le tenait ? — Une pucelle. / — D'où venait-elle ? — D'une chambre… »
+- **Interrogatoire** en demi-vers : « Qui le tenait ? » « Une pucelle. » / « D'où venait-elle ? » « D'une chambre… »
 - **La question qu'on ne pose pas** : se taire par excès de prudence est une faute aussi grave que trop parler.
 - **Courtoisie et désir** dits très simplement : baiser, anneau, nuit « bouche à bouche, bras à bras », sans grivoiserie.
 - **Merveilleux chrétien** : Dieu, le Créateur, le Vendredi saint, la lance qui saigne, l'ermite.
@@ -264,6 +265,7 @@ archaïsmes plus rares de la section 4.2 (lors, mie, onc, céans, issir…) vien
 Format de sortie :
 
 - Par défaut, des **vers continus**, sans étiquettes ni noms de voix.
+- **Pas de tiret long (—)**, ni pour une incise ni pour un changement de voix : chaque parole va entre guillemets « ».
 - Si on demande une scène ou des voix, mets chaque nom en majuscules au-dessus de ses vers.
 - Ne rends **pas** les découpages syllabiques ni d'explication, sauf si on te les demande. Un court glossaire final est permis si le texte contient des mots rares.
 
@@ -296,14 +298,14 @@ Noire et luisante, et toute close,
 Qui s'éclaire quand on la tâte.
 Moult s'en émerveille, et se hâte ;
 Lors il demande, par sa foi :
-« Sire, qu'est-ce donc que je vois ?
-— C'est, fait l'autre, un ordinateur.
-— Ordinateur ? — Sur mon honneur.
-— Et sert-il à chasser les bêtes
-Ou à tenir loin les tempêtes ?
-— Nenni, il compte sans arrêt,
-Plus vite qu'homme ne pourrait.
-— Ma mère ne m'en a rien dit,
+« Sire, qu'est-ce donc que je vois ? »
+« C'est, fait l'autre, un ordinateur. »
+« Ordinateur ? » « Sur mon honneur. »
+« Et sert-il à chasser les bêtes
+Ou à tenir loin les tempêtes ? »
+« Nenni, il compte sans arrêt,
+Plus vite qu'homme ne pourrait. »
+« Ma mère ne m'en a rien dit,
 Ni de lui ni de son esprit. »
 
 Que vous dirais-je davantage ?
