@@ -164,7 +164,10 @@ chanteurs, deux mesures ont été faites sur l'audio de chaque répétition :
 Résultat : Perceval reprend en écho le mot de l'autre (« le surplus je vous le défends. — Le
 baiser. », « n'ayez peur. — Peur ? ») et redit son salut quand le roi ne répond pas. Les vers entiers
 repris (« Jamais je ne vous oublierai », « Qui trop parle péché fait ») sont surtout chantés : la
-phrase d'un personnage revient en refrain. Le skill distingue ces trois formes dans sa section 3.4.
+phrase d'un personnage revient en refrain. Et ces reprises ferment la scène : 7 des 10 vers entiers
+repris précèdent un changement de lieu ou de temps, parfois après un long silence (25 s après
+« Partons d'ici… », 22 s après « Jamais je ne vous oublierai »). Le skill distingue ces trois formes
+dans sa section 3.4.
 
 ### Compter les mots du film
 

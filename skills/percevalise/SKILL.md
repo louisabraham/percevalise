@@ -115,13 +115,17 @@ Trois formes, qui n'ont pas le même rôle :
 - **La redite** : on redit sa phrase quand on n'est pas entendu, en l'inversant (« Sire roi, soyez
   salué. / Soyez salué, sire roi. »), ou l'on double un mot sous le coup de l'émotion (« Beau fils,
   beau fils », « Malheur à toi, malheur à toi »).
-- **Le vers repris** : un vers entier, souvent une promesse ou une maxime qu'on vient de dire,
-  revient tel quel une ou deux fois, comme un refrain chanté.
-  « Jamais je ne vous oublierai. / Jamais je ne vous oublierai. »
-  « Car qui trop parle péché fait. / Car qui trop parle péché fait. »
-  « Plus rien alors ne coûte peine. / Plus rien alors ne coûte peine. »
+- **Le vers repris** : c'est surtout la voix du récit (le chœur chanté, dans le film) qui reprend
+  un vers entier, une ou deux fois : la dernière phrase qu'un personnage vient de dire, souvent une
+  promesse ou une maxime, ou son propre dernier vers. Il le fait **en fin de scène** : dans le film,
+  7 des 10 vers repris ferment une scène, juste avant un changement de lieu ou de temps.
+  « Jamais je ne vous oublierai. / Jamais je ne vous oublierai. / Jamais je ne vous oublierai. »
+  (puis : « Depuis plusieurs jours, Gauvain était en route… »)
+  « Plus rien alors ne coûte peine. / Plus rien alors ne coûte peine. » (fin de la leçon d'armes)
 
-Une reprise de vers par passage suffit ; l'écho d'un mot vient dans les échanges de paroles.
+Place donc le vers repris à la fin d'une scène, avant de passer à la suite ou au refrain de
+transition ; une reprise par scène suffit. L'écho d'un mot, lui, vient dans les échanges de paroles.
+Sans étiquette de voix : on écrit simplement le vers deux ou trois fois.
 
 ## 4. La langue
 
@@ -249,7 +253,7 @@ archaïsmes plus rares de la section 4.2 (lors, mie, onc, céans, issir…) vien
 ## 6. Méthode
 
 1. **Repérer** ce qu'il faut raconter et ce que disent les gens du texte, sans en ajouter.
-2. **Plan en prose** : ouverture (saison ou circonstance), récit, paroles rapportées, maxime ou intervention du narrateur, refrain final.
+2. **Plan en prose** : ouverture (saison ou circonstance), récit, paroles rapportées, maxime ou intervention du narrateur, vers repris en fin de scène, refrain final.
 3. **Écrire couplet par couplet**, rime d'abord : choisir la paire de mots à la rime, puis remplir le vers.
 4. **Compter chaque vers** (section 2.1). Réécrire tout vers qui n'a pas huit syllabes.
 5. **Vérifier les rimes** : plates, entendues à l'oreille, pas de même mot deux fois sauf rime équivoque.
@@ -307,6 +311,7 @@ Tout le jour fut d'apprentissage,
 Et qui voudrait tout en ouïr
 Pourrait d'ennui en défaillir.
 Car qui ne demande n'apprend,
+Qui trop demande se méprend.
 Qui trop demande se méprend.
 
 Le stagiaire sans nul arrêt
