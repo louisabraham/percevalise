@@ -30,19 +30,19 @@ Exemple tiré du test. En entrée, de la prose moderne :
 
 En sortie (les 14 premiers vers) :
 
-> Un jeune serviteur alors
-> D'une chambre est issu dehors,
-> Une lance blanche tenant
-> Par le milieu, et va passant
-> Entre le feu, comme je dis,
-> Et ceux qui séaient sur le lit.
-> Tous virent lance blanche et blanc
-> Le fer ; au bout, goutte de sang
-> Perle, et coule tant qu'elle vient
-> Jusqu'à la main qui la soutient.
-> Perceval voit cette merveille
-> Dont ne vit onques la pareille ;
-> Mais, comme il est nouveau venu,
+> Un jeune serviteur alors\
+> D'une chambre est issu dehors,\
+> Une lance blanche tenant\
+> Par le milieu, et va passant\
+> Entre le feu, comme je dis,\
+> Et ceux qui séaient sur le lit.\
+> Tous virent lance blanche et blanc\
+> Le fer ; au bout, goutte de sang\
+> Perle, et coule tant qu'elle vient\
+> Jusqu'à la main qui la soutient.\
+> Perceval voit cette merveille\
+> Dont ne vit onques la pareille ;\
+> Mais, comme il est nouveau venu,\
 > De rien demander s'est tenu.
 
 ## Étape 1 : transcrire le film
